@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋 I'm Bo (B_Bo)
 
-<!--
-**baobolol71/baobolol71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚩 CTF Player & Information Security Enthusiast
+I'm a core member of **[6h4T 9pT pR0](https://6h4t9ptpr0.tech)**, an academic CTF team representing HUTECH. 
 
-Here are some ideas to get you started:
+### 🏆 Selected CTF Achievements
+*   **WannaGame Championship 2025:** Top 38 / 317 Teams.
+*   **VSL CTF 2026:** Top 31 /  Teams.
+*   **0CTF 2025:** Top 96 / 453 Global Team.
+*   **Jeanne d'Hack CTF 2026:** Top 133 / 384 Teams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Tech Stack & Security Skills
+*   **Languages:** `C`, `C++` .
+*   **Web Development:** `HTML`, `CSS`, `JavaScript` (Creator of a custom Matrix-effect ASCII UI portfolio).
+*   **Environments & Tools:** `Linux`, [nMap, GDB, Burp Suite, Wireshark]
