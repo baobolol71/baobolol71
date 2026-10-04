@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Bo (B_Bo)
 
 ## 🚩 CTF Player & Information Security Enthusiast
-I'm a member of **[6h4T 9pT pR0](https://6h4t9ptpr0.tech)**, an academic CTF team representing HUTECH. 
+I'm a member of **[6h4T 9pT pR0](https://6h4t9ptpr0.tech)**, an academic CTF team representing HoChiMinh University Technology. 
 
 ### 🏆 Selected CTF Achievements
 *   **WannaGame Championship 2025:** Top 38 / 317 Teams.
